@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Para acessar
+[https://queenflix.vercel.app/](https://queenflix.vercel.app/)
+
 ## Available Scripts
 
 In the project directory, you can run:
